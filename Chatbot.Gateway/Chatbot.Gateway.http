@@ -1,0 +1,6 @@
+@Chatbot.Gateway_HostAddress = http://localhost:5127
+
+GET {{Chatbot.Gateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
